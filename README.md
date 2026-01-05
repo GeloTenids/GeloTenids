@@ -1,5 +1,5 @@
 # Hi there, I'm Marc Angelo Teñido!
-### BSIT Student @ Polytechnic University of the Philippines - Biñan | Software Developer
+### 4th Year BSIT Student @ Polytechnic University of the Philippines - Biñan | Software Developer
 
 I am a **Software Developer** with a passion for **Backend Engineering** and algorithmic problem-solving. I specialize in building robust logic using **Java** and **C#**, while leveraging **Kotlin** and **JavaScript** for full-stack integration.
 
